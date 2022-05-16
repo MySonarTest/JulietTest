@@ -81,7 +81,8 @@ public class CWE89_SQL_Injection__PropertiesFile_execute_01 extends AbstractTest
             sqlStatement = dbConnection.createStatement();
 
             /* POTENTIAL FLAW: data concatenated into SQL statement used in execute(), which could result in SQL Injection */
-            Boolean result = sqlStatement.execute("insert into users (status) values ('updated') where name='"+data+"'");
+            String toExecute = "insert into users (status) values ('updated') where name='"+data+"'";
+            Boolean result = sqlStatement.execute(toExecute);
 
             if(result)
             {

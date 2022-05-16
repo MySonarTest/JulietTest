@@ -1,6 +1,7 @@
-projectKey=org.sonarqube:sonarqube-scanner-ant
-serverUrl=http://localhost:9000
-serverVersion=9.4.0.54424
-dashboardUrl=http://localhost:9000/dashboard?id=org.sonarqube%3Asonarqube-scanner-ant
-ceTaskId=AYDIxgiCF7K8ztFby-Sm
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYDIxgiCF7K8ztFby-Sm
+organization=mysonartest-1
+projectKey=MySonarTest_JulietTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29017
+dashboardUrl=https://sonarcloud.io/dashboard?id=MySonarTest_JulietTest
+ceTaskId=AYDMDwjGudwity4Q89Hg
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYDMDwjGudwity4Q89Hg
