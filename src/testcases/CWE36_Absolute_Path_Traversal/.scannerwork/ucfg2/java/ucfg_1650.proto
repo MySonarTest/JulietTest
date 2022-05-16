@@ -1,0 +1,42 @@
+
+ttestcases.CWE36_Absolute_Path_Traversal.CWE36_Absolute_Path_Traversal__Environment_21#bad_source()Ljava/lang/String;ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javaf f("4*Ë
+2ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javat t(ƒ
+¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javat t(
+datajava.lang.String"__id*
+""*
+1*è
+3ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javan n(í
+è
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javan n('
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADD÷
+”
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javan n('
+datajava.lang.String"__id*
+
+%0java.lang.String*
+1*Î
+4ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javah h(ƒ
+¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javah h(
+datajava.lang.String"__id*
+""*
+2
+3*‘
+1ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javaw w("µ
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_21.javaw w(
+
+datajava.lang.StringBYW
+Utestcases.CWE36_Absolute_Path_Traversal.CWE36_Absolute_Path_Traversal__Environment_21

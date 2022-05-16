@@ -1,0 +1,302 @@
+
+îtestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a#bad()VŒ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java$ $("42*â
+13–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÄ Ä(Hß
+§
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÄ Ä(H$
+outputObjectjava.io.ObjectOutput"__id*#
+!
+%30java.io.ObjectOutputStreamˇ¸
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÅ Å(*
+%32void"5java.io.ObjectOutput#writeObject(Ljava/lang/Object;)V*&
+$
+outputObjectjava.io.ObjectOutput*
+
+datajava.lang.String2writeObject(Ljava/lang/Object;)*
+12*ﬁ
+36Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java: :(F§
+°
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java: :(F(
+readerBufferedjava.io.BufferedReader"__id*
+
+%6java.io.BufferedReaderŸ÷
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java= =(0
+%8java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;**
+(
+readerBufferedjava.io.BufferedReader2
+readLine()*
+34*´	
+14Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java (?∫
+∑
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java (?6
+streamByteArrayOutputjava.io.ByteArrayOutputStream"__id*&
+$
+%28java.io.ByteArrayOutputStreamïí
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÄ Ä(1!
+%30java.io.ObjectOutputStream"java.io.ObjectOutputStream¯
+ı
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÄ Ä(H
+%31":java.io.ObjectOutputStream#<init>(Ljava/io/OutputStream;)V*#
+!
+%30java.io.ObjectOutputStream*8
+6
+streamByteArrayOutputjava.io.ByteArrayOutputStream*
+13*˘
+37Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java9 9([≠
+™
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java9 9([.
+readerInputStreamjava.io.InputStreamReader"__id*!
+
+%4java.io.InputStreamReaderäá
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java:% :(3
+%6java.io.BufferedReader"java.io.BufferedReaderﬁ
+€
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java:! :(F
+%7"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%6java.io.BufferedReader*0
+.
+readerInputStreamjava.io.InputStreamReader*
+36*¶
+15Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java$ (?ôñ
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java( (=$
+%28java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStream¨
+©
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java$ (?
+%29"'java.io.ByteArrayOutputStream#<init>()V*&
+$
+%28java.io.ByteArrayOutputStream*
+14*‚
+38Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java9S 9(Zêç
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java9( 9(9
+%4java.io.InputStreamReader"java.io.InputStreamReaderÒ
+Ó
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java9$ 9([
+%5"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%4java.io.InputStreamReader*
+
+%3java.io.InputStream*	
+UTF-8*
+37*É
+16Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaz6 z(:ö
+ó
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaz z(;6
+streamByteArrayOutputjava.io.ByteArrayOutputStream"__id*
+""à
+Ö
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java{ {()$
+outputObjectjava.io.ObjectOutput"__id*
+""*
+15*©
+27Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaV V()¿Ω
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaV V(1
+%16void""java.io.InputStreamReader#close()V*0
+.
+readerInputStreamjava.io.InputStreamReader2close()*
+16
+19
+0
+23*ƒ
+39Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java5 5(*é
+ã
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java5 5(*
+socketjava.net.Socket"__id*
+
+%2java.net.Socket’“
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java9: 9(Q
+%3java.io.InputStream"5java.net.Socket#getInputStream()Ljava/io/InputStream;*
+
+socketjava.net.Socket2getInputStream()*
+38*ê
+19Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javao o( Ø¨
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javao o((
+%24void"java.net.ServerSocket#close()V*#
+!
+listenerjava.net.ServerSocket2close()*
+16
+0*
+0 "Ë
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java§ §(
+implicit return*¨
+2–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaú ú()ŒÀ
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaú ú(1
+%44void"&java.io.ByteArrayOutputStream#close()V*8
+6
+streamByteArrayOutputjava.io.ByteArrayOutputStream2close()*
+0*î
+6–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaê ê( ≥∞
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaê ê((
+%40void"java.io.ObjectOutput#close()V*&
+$
+outputObjectjava.io.ObjectOutput2close()*
+2
+0*»
+40Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java4 4(2ú
+ô
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java4 4(2!
+listenerjava.net.ServerSocket"__id*
+
+%0java.net.ServerSocketÀ»
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java5 5(*
+%2java.net.Socket"/java.net.ServerSocket#accept()Ljava/net/Socket;*#
+!
+listenerjava.net.ServerSocket2accept()*
+39*å
+41Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java4, 4(1àÖ
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java4 4(+
+%0java.net.ServerSocket"java.net.ServerSocket£
+†
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java4 4(2
+%1" java.net.ServerSocket#<init>(I)V*
+
+%0java.net.ServerSocket*2˜¥*
+40*Å
+42Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java& &(¸
+˘
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java& &(
+datajava.lang.String"__id*
+""¯
+ı
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java( ((
+datajava.lang.String"__id* Ö
+Ç
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java, ,()!
+listenerjava.net.ServerSocket"__id*
+""˝
+˙
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java- -(!
+socketjava.net.Socket"__id*
+""å
+â
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java. .(1(
+readerBufferedjava.io.BufferedReader"__id*
+""í
+è
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java/ /(7.
+readerInputStreamjava.io.InputStreamReader"__id*
+""*
+41*§
+31Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaJ J(&∑¥
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaJ J(.
+%12void"java.io.BufferedReader#close()V**
+(
+readerBufferedjava.io.BufferedReader2close()*
+27
+16
+19
+0
+23*©
+10–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÉf É(tƒ¡
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÉ É(w
+%36void"ötestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75b#badSink([B)V*ò
+ï
+%34çtestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75b*
+
+dataSerializedbyte[]2badSink([B)*	
+2
+6
+0*˝
+11–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÇ Ç(Há
+Ñ
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÇ Ç(H
+dataSerializedbyte[]"__id*
+
+%33byte[]˛˚
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÉ É(Zï
+%34çtestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75b"çtestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75bí
+è
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÉ É(\
+%35"ótestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75b#<init>()V*ò
+ï
+%34çtestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75b*
+10*ˇ
+34Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java= =(0é
+ã
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.java= =(0
+datajava.lang.String"__id*
+
+%8java.lang.String*
+27
+16
+19
+31
+0
+23*Ω
+12–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÇ$ Ç(9›⁄
+–
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javaÇ$ Ç(G
+%33byte[]"-java.io.ByteArrayOutputStream#toByteArray()[B*8
+6
+streamByteArrayOutputjava.io.ByteArrayOutputStream2toByteArray()*
+11*Ü
+23Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javac c(°û
+Œ
+√/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a.javac c(&
+%20void"java.net.Socket#close()V*
+
+socketjava.net.Socket2close()*
+16
+19
+0Bìê
+çtestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__listen_tcp_75a

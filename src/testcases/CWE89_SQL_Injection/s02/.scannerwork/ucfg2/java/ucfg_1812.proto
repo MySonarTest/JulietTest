@@ -1,0 +1,27 @@
+
+utestcases.CWE89_SQL_Injection.s02.CWE89_SQL_Injection__Environment_prepareStatement_61b#badSource()Ljava/lang/String;ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Environment_prepareStatement_61b.java ("1*ì
+1ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Environment_prepareStatement_61b.java (∆
+√
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Environment_prepareStatement_61b.java (
+datajava.lang.String"__id*
+""î
+ë
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Environment_prepareStatement_61b.java (#
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADDÿ
+’
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Environment_prepareStatement_61b.java (#
+datajava.lang.String"__id*
+
+%0java.lang.String"∑
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Environment_prepareStatement_61b.java! !(
+
+datajava.lang.StringB[Y
+Wtestcases.CWE89_SQL_Injection.s02.CWE89_SQL_Injection__Environment_prepareStatement_61b

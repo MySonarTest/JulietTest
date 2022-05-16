@@ -1,0 +1,42 @@
+
+qtestcases.CWE36_Absolute_Path_Traversal.CWE36_Absolute_Path_Traversal__Property_22b#badSource()Ljava/lang/String;”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java ("4*ä
+2”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java( ((Â
+¿
+”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java( ((
+datajava.lang.String"__id*
+""*
+1*”
+3”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java" "(›
+˜
+”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java" "(2
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.homeÔ
+Ñ
+”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java" "(2
+datajava.lang.String"__id*
+
+%0java.lang.String*
+1*ç
+4”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java (Â
+¿
+”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java (
+datajava.lang.String"__id*
+""*
+2
+3*Ð
+1”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java* *("³
+”
+‰/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Property_22b.java* *(
+
+datajava.lang.StringBWU
+Stestcases.CWE36_Absolute_Path_Traversal.CWE36_Absolute_Path_Traversal__Property_22b

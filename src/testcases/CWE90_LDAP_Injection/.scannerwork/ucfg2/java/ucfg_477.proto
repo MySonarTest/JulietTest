@@ -1,0 +1,27 @@
+
+btestcases.CWE90_LDAP_Injection.CWE90_LDAP_Injection__Environment_61b#badSource()Ljava/lang/String;„
+z/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_61b.java ("1*¯
+1„
+z/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_61b.java (²
+¯
+„
+z/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_61b.java (
+datajava.lang.String"__id*
+""€
+ý
+„
+z/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_61b.java (#
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADDÄ
+Á
+„
+z/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_61b.java (#
+datajava.lang.String"__id*
+
+%0java.lang.String"£
+„
+z/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_61b.java! !(
+
+datajava.lang.StringBHF
+Dtestcases.CWE90_LDAP_Injection.CWE90_LDAP_Injection__Environment_61b

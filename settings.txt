@@ -1,0 +1,17 @@
+# Svace config file.
+#
+# This file was automatically generated with svace-3.3.0.
+# Use 'svace config' to modify this file and see the list of possible keys.
+# Depending on location of this file, you might also need '--system' or '--global' option.
+# 
+# --------------
+# 
+#-------
+# Analyze and save annotations for all met methods during server analysis.
+#
+# Default value: false
+
+#ANALYZE_ALL_METHODS_IN_SERVER_MODE = true
+#USE_NEW_DEVIRTUALIZATION = true
+#TRY_INFER_JAVA_TYPES = true
+DEVIRTUALIZE_JAVA_METHOD_CALLS = true

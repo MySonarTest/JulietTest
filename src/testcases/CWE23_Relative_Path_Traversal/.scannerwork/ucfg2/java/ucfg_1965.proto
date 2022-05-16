@@ -1,0 +1,365 @@
+
+^testcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__URLConnection_07#bad()Vò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java) )("43*¸
+24ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javai i("—
+Œ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javai i("
+rootjava.lang.String"__id*
+C:\\uploads\\*
+21
+0*ã
+36ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java; ;(4ÿ
+’
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java; ;(4
+datajava.lang.String"__id*
+
+%8java.lang.String*
+25
+29
+33
+0*¬
+14ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java (>ë
+é
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java (>
+%35void"1testcasesupport.IO#writeLine(Ljava/lang/String;)V*"
+testcasesupport.IO*
+
+%34java.lang.String*
+2
+6
+10
+0*∆	
+25ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javae e(∆
+√
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javae e(
+rootjava.lang.String"__id*
+""û
+õ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaf f((
+%20java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.nameìê
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaf f(6
+%21java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%20java.lang.String2toLowerCase()öó
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaf f(E
+
+%22int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+%21java.lang.String*
+win2indexOf(Ljava/lang/String;)*
+24
+23*ƒ
+15ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java~ ~(QÚ
+Ô
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java~ ~(Q+
+readerBufferdSinkjava.io.BufferedReader"__id*
+
+%32java.io.BufferedReaderß§
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java! (=
+%34java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*-
++
+readerBufferdSinkjava.io.BufferedReader2
+readLine()*
+14*Ó
+26ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javab b(∆
+√
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javab b(
+datajava.lang.String"__id*
+""*
+25*º
+38ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java7 7(JÓ
+Î
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java7 7(J(
+readerBufferedjava.io.BufferedReader"__id*
+
+%6java.io.BufferedReader£†
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java; ;(4
+%8java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;**
+(
+readerBufferedjava.io.BufferedReader2
+readLine()*
+36*≠
+16ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java} }(_¸
+˘
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java} }(_2
+readerInputStreamSinkjava.io.InputStreamReader"__id*"
+ 
+%30java.io.InputStreamReader’“
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java~, ~(:
+%32java.io.BufferedReader"java.io.BufferedReaderÆ
+´
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java~( ~(Q
+%33"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%32java.io.BufferedReader*4
+2
+readerInputStreamSinkjava.io.InputStreamReader*
+15*°
+39ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6 6(f˜
+Ù
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6 6(f.
+readerInputStreamjava.io.InputStreamReader"__id*!
+
+%4java.io.InputStreamReader‘—
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java7) 7(7
+%6java.io.BufferedReader"java.io.BufferedReader®
+•
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java7% 7(J
+%7"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%6java.io.BufferedReader*0
+.
+readerInputStreamjava.io.InputStreamReader*
+38*—
+17ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java| |(Cˆ
+Û
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java| |(C.
+streamFileInputSinkjava.io.FileInputStream"__id* 
+
+%28java.io.FileInputStream€ÿ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java}0 }(A 
+%30java.io.InputStreamReader"java.io.InputStreamReader“
+œ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java}, }(_
+%31"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*"
+ 
+%30java.io.InputStreamReader*0
+.
+streamFileInputSinkjava.io.FileInputStream*	
+UTF-8*
+16*í
+18ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java|> |(B◊‘
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java|. |(=
+%28java.io.FileInputStream"java.io.FileInputStreamê
+ç
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java|* |(C
+%29"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%28java.io.FileInputStream*
+
+filejava.io.File*
+17*µ
+29ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaT T(-äá
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaT T(5
+%16void""java.io.InputStreamReader#close()V*0
+.
+readerInputStreamjava.io.InputStreamReader2close()*
+25
+0*∫
+0 "≤
+ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaØ Ø(
+implicit return*≤
+2ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java§ §(/äá
+ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java§ §(7
+%47void" java.io.FileInputStream#close()V*0
+.
+streamFileInputSinkjava.io.FileInputStream2close()*
+0*ª
+6ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaò ò(1êç
+ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaò ò(9
+%43void""java.io.InputStreamReader#close()V*4
+2
+readerInputStreamSinkjava.io.InputStreamReader2close()*
+2
+0*¿
+40ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6^ 6(e⁄◊
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6, 6(=
+%4java.io.InputStreamReader"java.io.InputStreamReaderª
+∏
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6( 6(f
+%5"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%4java.io.InputStreamReader*
+
+%3java.io.InputStream*	
+UTF-8*
+39*‹
+41ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6> 6(K¥±
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java6> 6(\
+%3java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*)
+'
+urlConnectionjava.net.URLConnection2getInputStream()*
+40*˜
+42ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java. .(¬
+ø
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java. .(
+datajava.lang.String"__id* ¿Ω
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java13 1(6
+%0java.net.URL"java.net.URLÅ
+˛
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java1/ 1(Q
+%1"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%0java.net.URL*
+http://www.example.org/õò
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java1. 1(c
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+%0java.net.URL2openConnection()Ì
+Í
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java1 1(d'
+urlConnectionjava.net.URLConnection"__id*
+
+%2java.net.URLConnection÷
+”
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java2 2(5(
+readerBufferedjava.io.BufferedReader"__id*
+""‹
+Ÿ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java3 3(;.
+readerInputStreamjava.io.InputStreamReader"__id*
+""*
+41*ì
+20ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javax! x(%ËÂ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javax! x(.
+%27boolean"java.io.File#isFile()Z*
+
+filejava.io.File2isFile()*
+18
+0*Ú
+43ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java+ +(∆
+√
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.java+ +(
+datajava.lang.String"__id*
+""*
+26
+42*…
+21ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javat! t(%˘
+ˆ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javat! t(,
+%23java.lang.String"__concat*
+
+rootjava.lang.String*
+
+datajava.lang.String¡æ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javat t( 
+%24java.io.File"java.io.FileÅ
+˛
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javat t(-
+%25"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%24java.io.File*
+
+%23java.lang.String—
+Œ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javat t(.
+filejava.io.File"__id*
+
+%24java.io.File‹
+Ÿ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javau u(7.
+streamFileInputSinkjava.io.FileInputStream"__id*
+""‡
+›
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javav v(;2
+readerInputStreamSinkjava.io.InputStreamReader"__id*
+""Ÿ
+÷
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaw w(4+
+readerBufferdSinkjava.io.BufferedReader"__id*
+""ËÂ
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javax x(
+%26boolean"java.io.File#exists()Z*
+
+filejava.io.File2exists()*
+20
+0*µ
+10ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaå å(-ÜÉ
+ö
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaå å(5
+%39void"java.io.BufferedReader#close()V*-
++
+readerBufferdSinkjava.io.BufferedReader2close()*	
+2
+6
+0*∞
+33ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaH H(*Å˛
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javaH H(2
+%12void"java.io.BufferedReader#close()V**
+(
+readerBufferedjava.io.BufferedReader2close()*
+25
+29
+0*Ç
+23ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javan n((◊
+‘
+ò
+ç/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__URLConnection_07.javan n((
+rootjava.lang.String"__id*
+/home/user/uploads/*
+21
+0B[Y
+Wtestcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__URLConnection_07

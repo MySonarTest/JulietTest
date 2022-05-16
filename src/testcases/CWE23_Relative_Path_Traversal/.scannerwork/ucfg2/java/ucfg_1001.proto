@@ -1,0 +1,27 @@
+
+stestcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__Environment_42#badSource()Ljava/lang/String;ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_42.java ("1*â
+1ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_42.java (ƒ
+¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_42.java (
+datajava.lang.String"__id*
+""í
+è
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_42.java! !(#
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADD÷
+”
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_42.java! !(#
+datajava.lang.String"__id*
+
+%0java.lang.String"µ
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_42.java# #(
+
+datajava.lang.StringBYW
+Utestcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__Environment_42

@@ -1,0 +1,42 @@
+
+btestcases.CWE90_LDAP_Injection.CWE90_LDAP_Injection__Environment_21#bad_source()Ljava/lang/String;ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javaZ Z("4*Â
+2ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javah h(±
+®
+ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javah h(
+datajava.lang.String"__id*
+""*
+1*Ö
+3ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javab b(ÿ
+ü
+ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javab b('
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADDÃ
+À
+ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javab b('
+datajava.lang.String"__id*
+
+%0java.lang.String*
+1*Å
+4ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.java\ \(±
+®
+ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.java\ \(
+datajava.lang.String"__id*
+""*
+2
+3*®
+1ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javak k("¢
+ƒ
+y/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_21.javak k(
+
+datajava.lang.StringBGE
+Ctestcases.CWE90_LDAP_Injection.CWE90_LDAP_Injection__Environment_21

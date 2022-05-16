@@ -1,0 +1,382 @@
+
+Otestcases.CWE90_LDAP_Injection.CWE90_LDAP_Injection__console_readLine_16#bad()Và
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java$ $("43*ƒ
+24à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java`5 `(IÈÊ
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java`# `(4/
+%23(javax.naming.directory.InitialDirContext"(javax.naming.directory.InitialDirContext¿
+Ω
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java` `(J
+%24"Gjavax.naming.directory.InitialDirContext#<init>(Ljava/util/Hashtable;)V*1
+/
+%23(javax.naming.directory.InitialDirContext*-
++
+environmentHashTablejava.util.Hashtable*
+23*ê
+25à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaY9 Y(Xøº
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaY= Y(V
+%17java.util.Hashtable"java.util.Hashtable“
+œ
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaY9 Y(X
+%18"java.util.Hashtable#<init>()V*
+
+%17java.util.Hashtableﬂ
+‹
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaY Y(Y+
+environmentHashTablejava.util.Hashtable"__id*
+
+%17java.util.Hashtableµ
+≤
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaZ! Z(@
+%19java.lang.String"__id*
+""°
+û
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaZ Z(d
+%20java.lang.String"__mapSet*-
++
+environmentHashTablejava.util.Hashtable*
+
+%19java.lang.String*$"
+ com.sun.jndi.ldap.LdapCtxFactoryµ
+≤
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java[! [(5
+%21java.lang.String"__id*
+""ï
+í
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java[ [(N
+%22java.lang.String"__mapSet*-
++
+environmentHashTablejava.util.Hashtable*
+
+%21java.lang.String*
+ldap://localhost:389”
+–
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java\ \(+5
+directoryContext!javax.naming.directory.DirContext"__id*
+""*
+24*ï
+29à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaL L(-˙˜
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaL L(5
+%13void""java.io.InputStreamReader#close()V*0
+.
+readerInputStreamjava.io.InputStreamReader2close()*
+25
+0*û
+10à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javan n(#ÉÄ
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javan n(-
+%35boolean")javax.naming.NamingEnumeration#hasMore()Z*-
++
+	allValuesjavax.naming.NamingEnumeration2	hasMore()*
+15
+8*è
+33à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java@ @(*Ì
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java@ @(2
+
+%9void"java.io.BufferedReader#close()V**
+(
+readerBufferedjava.io.BufferedReader2close()*
+25
+29
+0*Ç
+11à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javam m(HÍ
+Á
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javam m(H+
+	allValuesjavax.naming.NamingEnumeration"__id*'
+%
+%34javax.naming.NamingEnumeration*
+10*≠
+12à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javal* l(J◊
+‘
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javal l(K-
+	attribute javax.naming.directory.Attribute"__id*
+
+%33	!capture!ª∏
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javam5 m(G%
+%34javax.naming.NamingEnumeration"Ijavax.naming.directory.Attribute#getAll()Ljavax/naming/NamingEnumeration;*/
+-
+	attribute javax.naming.directory.Attribute2getAll()*
+11*¨
+13à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javal6 l(Cîë
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javal6 l(J
+%33	!capture!"7javax.naming.NamingEnumeration#next()Ljava/lang/Object;*1
+/
+allAttributesjavax.naming.NamingEnumeration2next()*
+12*Î
+36à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java4 4(4»
+≈
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java4 4(4
+datajava.lang.String"__id*
+
+%5java.lang.String*
+25
+29
+33
+0*£
+15à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaj j($áÑ
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaj j(.
+%32boolean")javax.naming.NamingEnumeration#hasMore()Z*1
+/
+allAttributesjavax.naming.NamingEnumeration2	hasMore()*
+13
+21*å
+38à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java2 2(Jﬁ
+€
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java2 2(J(
+readerBufferedjava.io.BufferedReader"__id*
+
+%3java.io.BufferedReaderìê
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java4 4(4
+%5java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;**
+(
+readerBufferedjava.io.BufferedReader2
+readLine()*
+36*Ü
+16à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javai i(IÓ
+Î
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javai i(I/
+allAttributesjavax.naming.NamingEnumeration"__id*'
+%
+%31javax.naming.NamingEnumeration*
+15*·
+39à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java1 1(QÁ
+‰
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java1 1(Q.
+readerInputStreamjava.io.InputStreamReader"__id*!
+
+%1java.io.InputStreamReaderƒ¡
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java2) 2(7
+%3java.io.BufferedReader"java.io.BufferedReaderò
+ï
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java2% 2(J
+%4"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%3java.io.BufferedReader*0
+.
+readerInputStreamjava.io.InputStreamReader*
+38* 
+17à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javah h(EÒ
+Ó
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javah h(E/
+
+attributes!javax.naming.directory.Attributes"__id**
+(
+%30!javax.naming.directory.Attributesæª
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javai5 i(H%
+%31javax.naming.NamingEnumeration"Jjavax.naming.directory.Attributes#getAll()Ljavax/naming/NamingEnumeration;*1
+/
+
+attributes!javax.naming.directory.Attributes2getAll()*
+16*Í
+18à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javag g(:˜
+Ù
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javag g(:3
+searchResult#javax.naming.directory.SearchResult"__id*,
+*
+%29#javax.naming.directory.SearchResultÿ’
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javah( h(D(
+%30!javax.naming.directory.Attributes"Vjavax.naming.directory.SearchResult#getAttributes()Ljavax/naming/directory/Attributes;*5
+3
+searchResult#javax.naming.directory.SearchResult2getAttributes()*
+17*ø
+19à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javag, g(2ß§
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javag, g(9*
+%29#javax.naming.directory.SearchResult"7javax.naming.NamingEnumeration#next()Ljava/lang/Object;**
+(
+answerjavax.naming.NamingEnumeration2next()*
+18*™
+0 "¢
+ä
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javaà à(
+implicit return*í
+2à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java ($¸˘
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java (,
+%43void"javax.naming.Context#close()V*7
+5
+directoryContext!javax.naming.directory.DirContext2close()*
+0*ı
+6à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap% p(M⁄
+◊
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap% p(M
+%38java.lang.String"__concat*
+
+ Value: *
+
+%37java.lang.StringÅ
+˛
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap p(N
+%39void"1testcasesupport.IO#writeLine(Ljava/lang/String;)V*"
+testcasesupport.IO*
+
+%38java.lang.String*
+10*å
+7à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap2 p(MˆÛ
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap2 p(M
+%37java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+%36	!capture!2
+toString()*
+6*¶
+8à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap p(êç
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javap2 p(B
+%36	!capture!"7javax.naming.NamingEnumeration#next()Ljava/lang/Object;*-
++
+	allValuesjavax.naming.NamingEnumeration2next()*
+7* 
+40à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java1> 1(D∑
+¥
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java1> 1(G
+%0java.io.InputStream"__id*
+"" «
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java1, 1(=
+%1java.io.InputStreamReader"java.io.InputStreamReader´
+®
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java1( 1(Q
+%2"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%1java.io.InputStreamReader*
+
+%0java.io.InputStream*	
+UTF-8*
+39*‚
+41à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java* *(≤
+Ø
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java* *(
+datajava.lang.String"__id* Ã
+…
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java, ,(;.
+readerInputStreamjava.io.InputStreamReader"__id*
+""∆
+√
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java- -(5(
+readerBufferedjava.io.BufferedReader"__id*
+""*
+40*“
+43à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java& &(∂
+≥
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java& &(
+datajava.lang.String"__id*
+""*
+25
+41*û
+21à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javae e(Ä˝
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javae e(#
+%28boolean")javax.naming.NamingEnumeration#hasMore()Z**
+(
+answerjavax.naming.NamingEnumeration2	hasMore()*
+
+2
+19
+0*ˇ
+22à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javad d(_Á
+‰
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javad d(_(
+answerjavax.naming.NamingEnumeration"__id*'
+%
+%27javax.naming.NamingEnumeration*
+21*ú
+23à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java` `(J˛
+˚
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.java` `(J5
+directoryContext!javax.naming.directory.DirContext"__id*1
+/
+%23(javax.naming.directory.InitialDirContext◊
+‘
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javab b()
+%25java.lang.String"__concat*
+(cn=*
+
+datajava.lang.String”
+–
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javab b(/
+%26java.lang.String"__concat*
+
+%25java.lang.String*
+)À
+»
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javab b(0
+searchjava.lang.String"__id*
+
+%26java.lang.StringÖÇ
+à
+~/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__console_readLine_16.javad5 d(^%
+%27javax.naming.NamingEnumeration"ïjavax.naming.directory.DirContext#search(Ljava/lang/String;Ljava/lang/String;Ljavax/naming/directory/SearchControls;)Ljavax/naming/NamingEnumeration;*7
+5
+directoryContext!javax.naming.directory.DirContext* *
+
+searchjava.lang.String*
+""2Ssearch(Ljava/lang/String;Ljava/lang/String;Ljavax/naming/directory/SearchControls;)*
+22BLJ
+Htestcases.CWE90_LDAP_Injection.CWE90_LDAP_Injection__console_readLine_16

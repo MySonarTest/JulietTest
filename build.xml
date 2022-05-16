@@ -1,0 +1,45 @@
+<project default="compile" xmlns:sonar="antlib:org.sonar.ant">
+
+    <property name="sonar.host.url" value="http://localhost:9000" />
+    <property name="sonar.projectKey" value="org.sonarqube:sonarqube-scanner-ant" />
+	<property name="sonar.projectName" value="Example of SonarQube Scanner for Ant Usage" />
+	<property name="sonar.projectVersion" value="1.0" />
+	<property name="sonar.sources" value="src" />
+	<property name="sonar.binaries" value="target" />
+	<property name="sonar.sourceEncoding" value="UTF-8" />
+
+    <macrodef name="cwes">
+      <attribute name="target" />
+      <sequential>
+        <subant target="@{target}">
+          <fileset dir="src" includes="*/*/build.xml" />
+          <fileset dir="src" includes="*/*/*/build.xml" />
+        </subant>
+      </sequential>
+    </macrodef>
+
+    <target name="clean">
+      <cwes target="clean" />
+    </target>
+
+    <target name="compile">
+      <cwes target="compile" />
+    </target>
+
+    <target name="war">
+      <cwes target="war" />
+    </target>
+
+    <target name="war_with_libs">
+      <cwes target="war_with_libs" />
+    </target>
+
+    <target name="jar">
+      <cwes target="jar" />
+    </target>
+
+    <target name="sonar">
+		<cwes target="sonar" />
+	</target>
+
+</project>

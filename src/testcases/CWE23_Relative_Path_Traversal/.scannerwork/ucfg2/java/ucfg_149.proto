@@ -1,0 +1,377 @@
+
+\testcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__connect_tcp_17#bad()Vñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java" "("50*ô
+46ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java5 5([ı
+Ú
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java5 5([.
+readerInputStreamjava.io.InputStreamReader"__id*!
+
+%3java.io.InputStreamReader“œ
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java6% 6(3
+%5java.io.BufferedReader"java.io.BufferedReader¶
+£
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java6! 6(F
+%6"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%5java.io.BufferedReader*0
+.
+readerInputStreamjava.io.InputStreamReader*
+45*µ
+36ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaR R()àÖ
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaR R(1
+%15void""java.io.InputStreamReader#close()V*0
+.
+readerInputStreamjava.io.InputStreamReader2close()*
+27
+32
+0*∫
+47ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java5S 5(Zÿ’
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java5( 5(9
+%3java.io.InputStreamReader"java.io.InputStreamReaderπ
+∂
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java5$ 5([
+%4"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%3java.io.InputStreamReader*
+
+%2java.io.InputStream*	
+UTF-8*
+46*Ç
+25ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javat t(,’
+“
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javat t(,
+rootjava.lang.String"__id*
+/home/user/uploads/*
+27
+0
+23*ú
+48ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java1 1(>÷
+”
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java1 1(>
+socketjava.net.Socket"__id*
+
+%0java.net.Socketùö
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java5: 5(Q
+%2java.io.InputStream"5java.net.Socket#getInputStream()Ljava/io/InputStream;*
+
+socketjava.net.Socket2getInputStream()*
+47*¸
+26ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javao o(&œ
+Ã
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javao o(&
+rootjava.lang.String"__id*
+C:\\uploads\\*
+27
+0
+23*∆
+16ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÑ Ñ(Bë
+é
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÑ Ñ(B
+%38void"1testcasesupport.IO#writeLine(Ljava/lang/String;)V*"
+testcasesupport.IO*
+
+%37java.lang.String*
+4
+27
+8
+0
+12*Ù
+49ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java1$ 1(6ƒ¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java1 1(#
+%0java.net.Socket"java.net.Socketá
+Ñ
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java1 1(>
+%1",java.net.Socket#<init>(Ljava/lang/String;I)V*
+
+%0java.net.Socket*
+host.example.org*2¯¥*
+48*º	
+27ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javak k(ƒ
+¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javak k(
+rootjava.lang.String"__id*
+""ú
+ô
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javal l(,
+%23java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.nameëé
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javal l(:
+%24java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%23java.lang.String2toLowerCase()òï
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javal l(I
+
+%25int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+%24java.lang.String*
+win2indexOf(Ljava/lang/String;)*
+25
+26*ƒ
+17ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÉ É(UÚ
+Ô
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÉ É(U+
+readerBufferdSinkjava.io.BufferedReader"__id*
+
+%35java.io.BufferedReaderß§
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÑ% Ñ(A
+%37java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*-
++
+readerBufferdSinkjava.io.BufferedReader2
+readLine()*
+16*≠
+18ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÇ Ç(c¸
+˘
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÇ Ç(c2
+readerInputStreamSinkjava.io.InputStreamReader"__id*"
+ 
+%33java.io.InputStreamReader’“
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÉ0 É(>
+%35java.io.BufferedReader"java.io.BufferedReaderÆ
+´
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÉ, É(U
+%36"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%35java.io.BufferedReader*4
+2
+readerInputStreamSinkjava.io.InputStreamReader*
+17*—
+19ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÅ Å(Gˆ
+Û
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÅ Å(G.
+streamFileInputSinkjava.io.FileInputStream"__id* 
+
+%31java.io.FileInputStream€ÿ
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÇ4 Ç(E 
+%33java.io.InputStreamReader"java.io.InputStreamReader“
+œ
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÇ0 Ç(c
+%34"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*"
+ 
+%33java.io.InputStreamReader*0
+.
+streamFileInputSinkjava.io.FileInputStream*	
+UTF-8*
+18*∏
+0 "∞
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java¥ ¥(
+implicit return*≤
+4ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java©  ©(3àÖ
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java©  ©(;
+%50void" java.io.FileInputStream#close()V*0
+.
+streamFileInputSinkjava.io.FileInputStream2close()*
+27
+0*ª
+8ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaù  ù(5éã
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaù  ù(=
+%46void""java.io.InputStreamReader#close()V*4
+2
+readerInputStreamSinkjava.io.InputStreamReader2close()*
+
+4
+27
+0*©	
+50ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java$ $(ƒ
+¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java$ $(
+datajava.lang.String"__id*
+""¿
+Ω
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java& &(
+datajava.lang.String"__id* ≈
+¬
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java* *(!
+socketjava.net.Socket"__id*
+""‘
+—
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java+ +(1(
+readerBufferedjava.io.BufferedReader"__id*
+""⁄
+◊
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java, ,(7.
+readerInputStreamjava.io.InputStreamReader"__id*
+""*
+49*∞
+40ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaF F(&ˇ¸
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaF F(.
+%11void"java.io.BufferedReader#close()V**
+(
+readerBufferedjava.io.BufferedReader2close()*
+36
+27
+32
+0*í
+20ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÅB Å(F◊‘
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÅ2 Å(A
+%31java.io.FileInputStream"java.io.FileInputStreamê
+ç
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaÅ. Å(G
+%32"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%31java.io.FileInputStream*
+
+filejava.io.File*
+19*ã
+43ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java9 9(0÷
+”
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java9 9(0
+datajava.lang.String"__id*
+
+%7java.lang.String*
+36
+27
+40
+32
+0*í
+32ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java_ _(ÈÊ
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java_ _(&
+%19void"java.net.Socket#close()V*
+
+socketjava.net.Socket2close()*
+27
+0*ì
+22ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java}% }()Ê„
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java}% }(2
+%30boolean"java.io.File#isFile()Z*
+
+filejava.io.File2isFile()*
+27
+20
+0*µ
+12ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaë  ë(1ÑÅ
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaë  ë(9
+%42void"java.io.BufferedReader#close()V*-
++
+readerBufferdSinkjava.io.BufferedReader2close()*
+4
+27
+8
+0*∂
+45ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java6 6(FÏ
+È
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java6 6(F(
+readerBufferedjava.io.BufferedReader"__id*
+
+%5java.io.BufferedReader°û
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java9 9(0
+%7java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;**
+(
+readerBufferedjava.io.BufferedReader2
+readLine()*
+43*ª
+23ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javay% y()˜
+Ù
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javay% y(0
+%26java.lang.String"__concat*
+
+rootjava.lang.String*
+
+datajava.lang.Stringøº
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javay  y($
+%27java.io.File"java.io.Fileˇ
+¸
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javay y(1
+%28"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%27java.io.File*
+
+%26java.lang.Stringœ
+Ã
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javay y(2
+filejava.io.File"__id*
+
+%27java.io.File⁄
+◊
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.javaz z(;.
+streamFileInputSinkjava.io.FileInputStream"__id*
+""ﬁ
+€
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java{ {(?2
+readerInputStreamSinkjava.io.InputStreamReader"__id*
+""◊
+‘
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java| |(8+
+readerBufferdSinkjava.io.BufferedReader"__id*
+""Ê„
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__connect_tcp_17.java} }(!
+%29boolean"java.io.File#exists()Z*
+
+filejava.io.File2exists()*
+27
+22
+0BYW
+Utestcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__connect_tcp_17

@@ -1,0 +1,42 @@
+
+ttestcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__Environment_21#bad_source()Ljava/lang/String;ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javar r("4*Ï
+2ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaÄ Ä(∆
+√
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaÄ Ä(
+datajava.lang.String"__id*
+""*
+1*è
+3ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaz z(í
+è
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaz z('
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADD÷
+”
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaz z('
+datajava.lang.String"__id*
+
+%0java.lang.String*
+1*Î
+4ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javat t(ƒ
+¡
+ñ
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javat t(
+datajava.lang.String"__id*
+""*
+2
+3*ÿ
+1ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaÉ É("∑
+ò
+ã/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_21.javaÉ É(
+
+datajava.lang.StringBYW
+Utestcases.CWE23_Relative_Path_Traversal.CWE23_Relative_Path_Traversal__Environment_21

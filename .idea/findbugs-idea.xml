@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugs-IDEA">
+    <analysisEffort>max</analysisEffort>
+    <hiddenBugCategory>
+      <category name="BAD_PRACTICE" />
+      <category name="CORRECTNESS" />
+      <category name="EXPERIMENTAL" />
+      <category name="I18N" />
+      <category name="MT_CORRECTNESS" />
+      <category name="NOISE" />
+      <category name="PERFORMANCE" />
+      <category name="STYLE" />
+    </hiddenBugCategory>
+    <plugins>
+      <plugin id="com.h3xstream.findsecbugs" enabled="true" bundled="true">
+        <detectors>
+          <detector name="AwsQueryInjectionDetector" enabled="false" />
+          <detector name="BadHexadecimalConversionDetector" enabled="false" />
+          <detector name="BeanInjectionDetector" enabled="false" />
+          <detector name="BroadcastDetector" enabled="false" />
+          <detector name="CipherWithNoIntegrityDetector" enabled="false" />
+          <detector name="ConstantPasswordDetector" enabled="false" />
+          <detector name="CorsRegistryCORSDetector" enabled="false" />
+          <detector name="DesUsageDetector" enabled="false" />
+          <detector name="EnabledExtensionsInApacheXmlRpcDetector" enabled="false" />
+          <detector name="ErrorMessageExposureDetector" enabled="false" />
+          <detector name="GeolocationDetector" enabled="false" />
+          <detector name="GoogleApiKeyDetector" enabled="false" />
+          <detector name="GroovyShellDetector" enabled="false" />
+          <detector name="KotlinHardcodePasswordInMapDetector" enabled="false" />
+          <detector name="KotlinHardcodedPasswordEqualsDetector" enabled="false" />
+          <detector name="NullCipherDetector" enabled="false" />
+          <detector name="ObjectDeserializationDetector" enabled="false" />
+          <detector name="PermissiveCORSDetector" enabled="false" />
+          <detector name="PersistentCookieDetector" enabled="false" />
+          <detector name="SpringCsrfProtectionDisabledDetector" enabled="false" />
+          <detector name="SpringCsrfUnrestrictedRequestMappingDetector" enabled="false" />
+          <detector name="SpringEntityLeakDetector" enabled="false" />
+          <detector name="SpringMvcEndpointDetector" enabled="false" />
+          <detector name="SpringUnvalidatedRedirectDetector" enabled="false" />
+          <detector name="StaticIvDetector" enabled="false" />
+          <detector name="Struts1EndpointDetector" enabled="false" />
+          <detector name="Struts2EndpointDetector" enabled="false" />
+          <detector name="StrutsValidatorFormDetector" enabled="false" />
+          <detector name="UnencryptedServerSocketDetector" enabled="false" />
+          <detector name="UnencryptedSocketDetector" enabled="false" />
+          <detector name="WeakTLSDetector" enabled="false" />
+          <detector name="WebViewJavascriptEnabledDetector" enabled="false" />
+          <detector name="WebViewJavascriptInterfaceDetector" enabled="false" />
+          <detector name="WicketEndpointDetector" enabled="false" />
+          <detector name="WicketXssComponentDetector" enabled="false" />
+          <detector name="XSSRequestWrapperDetector" enabled="false" />
+          <detector name="XssJspDetector" enabled="false" />
+          <detector name="XssMvcApiDetector" enabled="false" />
+          <detector name="XssServletDetector" enabled="false" />
+          <detector name="XssTwirlDetector" enabled="false" />
+        </detectors>
+      </plugin>
+    </plugins>
+    <detectors>
+      <detector name="FindSqlInjection" enabled="false" />
+      <detector name="MutableStaticFields" enabled="false" />
+    </detectors>
+  </component>
+</project>

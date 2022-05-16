@@ -1,0 +1,28 @@
+
+®testcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__Property_42#badSource()Ljava/lang/String;À
+¿/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Property_42.java ("1*ù
+
+1À
+¿/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Property_42.java (˘
+ˆ
+À
+¿/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Property_42.java (
+datajava.lang.String"__id*
+""“
+œ
+À
+¿/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Property_42.java" "(.
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.homeã
+à
+À
+¿/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Property_42.java" "(.
+datajava.lang.String"__id*
+
+%0java.lang.String"Í
+À
+¿/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Property_42.java$ $(
+
+datajava.lang.StringBêç
+ätestcases.CWE15_External_Control_of_System_or_Configuration_Setting.CWE15_External_Control_of_System_or_Configuration_Setting__Property_42

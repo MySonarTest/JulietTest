@@ -1,0 +1,298 @@
+
+dtestcases.CWE89_SQL_Injection.s04.CWE89_SQL_Injection__URLConnection_prepareStatement_15#goodB2G1()Võ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaµ µ("22*–
+13õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaâ â(â
+Ü
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaâ! â(M
+%28java.lang.String"__concat*'%
+#Unable to update records for user: *
+
+datajava.lang.Stringî
+ë
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaâ â(N
+%29void"1testcasesupport.IO#writeLine(Ljava/lang/String;)V*"
+testcasesupport.IO*
+
+%28java.lang.String*	
+5
+9
+0*≈
+36õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java≈ ≈(JÒ
+Ó
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java≈ ≈(J(
+readerBufferedjava.io.BufferedReader"__id*
+
+%6java.io.BufferedReader¶£
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java… …(4
+%8java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;**
+(
+readerBufferedjava.io.BufferedReader2
+readLine()*
+34*±
+14õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÖ Ö(Ï
+È
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÖ! Ö(0
+%25java.lang.String"__concat*
+
+Name, *
+
+datajava.lang.String˚
+¯
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÖ! Ö(K
+%26java.lang.String"__concat*
+
+%25java.lang.String*
+, updated successfullyî
+ë
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÖ Ö(L
+%27void"1testcasesupport.IO#writeLine(Ljava/lang/String;)V*"
+testcasesupport.IO*
+
+%26java.lang.String*	
+5
+9
+0*≠
+37õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ ƒ(f˙
+˜
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ ƒ(f.
+readerInputStreamjava.io.InputStreamReader"__id*!
+
+%4java.io.InputStreamReader◊‘
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java≈) ≈(7
+%6java.io.BufferedReader"java.io.BufferedReader´
+®
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java≈% ≈(J
+%7"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%6java.io.BufferedReader*0
+.
+readerInputStreamjava.io.InputStreamReader*
+36*Ö
+15õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÇ Ç(8÷
+”
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÇ Ç(8
+resultjava.lang.Boolean"__id*
+
+%24boolean*
+13
+14*…
+38õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ^ ƒ(e›⁄
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ, ƒ(=
+%4java.io.InputStreamReader"java.io.InputStreamReaderæ
+ª
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ( ƒ(f
+%5"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%4java.io.InputStreamReader*
+
+%3java.io.InputStream*	
+UTF-8*
+37*º
+16õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÇ! Ç(-ëé
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÇ! Ç(7
+%24boolean"%java.sql.PreparedStatement#execute()Z*,
+*
+sqlStatementjava.sql.PreparedStatement2	execute()*
+15*ø
+27õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java‚ ‚(-çä
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java‚ ‚(5
+%16void""java.io.InputStreamReader#close()V*0
+.
+readerInputStreamjava.io.InputStreamReader2close()*
+20
+21
+0*‚
+39õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ> ƒ(K∑¥
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaƒ> ƒ(\
+%3java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*)
+'
+urlConnectionjava.net.URLConnection2getInputStream()*
+38*Ä
+17õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÄ Ä(z¯
+ı
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÄ Ä(z*
+sqlStatementjava.sql.PreparedStatement"__id*#
+!
+%22java.sql.PreparedStatement⁄◊
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÅ Å(/
+%23void":java.sql.PreparedStatement#setString(ILjava/lang/String;)V*,
+*
+sqlStatementjava.sql.PreparedStatement*2*
+
+datajava.lang.String2setString(ILjava/lang/String;)*
+16*ø
+18õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaˇ ˇ(3Í
+Á
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaˇ ˇ(3#
+dbConnectionjava.sql.Connection"__id*
+
+%21java.sql.Connectionß§
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÄ Ä(z!
+%22java.sql.PreparedStatement"Tjava.sql.Connection#prepareStatement(Ljava/lang/String;)Ljava/sql/PreparedStatement;*%
+#
+dbConnectionjava.sql.Connection*><
+:insert into users (status) values ('updated') where name=?2$prepareStatement(Ljava/lang/String;)*
+17*ª
+19õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaˇ ˇ(!ê
+ç
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaˇ ˇ(3
+%21java.sql.Connection"9testcasesupport.IO#getDBConnection()Ljava/sql/Connection;*"
+testcasesupport.IO*
+18*ª
+0 "≥
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java¨ ¨(
+implicit return*•
+5õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java¢ ¢($¸˘
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java¢ ¢(,
+%37void"java.sql.Connection#close()V*%
+#
+dbConnectionjava.sql.Connection2close()*
+0*Æ
+9õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javañ ñ($Çˇ
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javañ ñ(,
+%33void"java.sql.Statement#close()V*,
+*
+sqlStatementjava.sql.PreparedStatement2close()*
+5
+0*è
+40õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaª Î(≈
+¬
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaº º(
+datajava.lang.String"__id* √¿
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaø3 ø(6
+%0java.net.URL"java.net.URLÑ
+Å
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaø/ ø(Q
+%1"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%0java.net.URL*
+http://www.example.org/ûõ
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaø. ø(c
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+%0java.net.URL2openConnection()
+Ì
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaø ø(d'
+urlConnectionjava.net.URLConnection"__id*
+
+%2java.net.URLConnectionŸ
+÷
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java¿ ¿(5(
+readerBufferedjava.io.BufferedReader"__id*
+""ﬂ
+‹
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java¡ ¡(;.
+readerInputStreamjava.io.InputStreamReader"__id*
+""*
+39*›
+20õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java˘ ™(‘
+—
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java˙ ˙(+#
+dbConnectionjava.sql.Connection"__id*
+""€
+ÿ
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java˚ ˚(2*
+sqlStatementjava.sql.PreparedStatement"__id*
+""*
+19*∫
+31õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java÷ ÷(*ÑÅ
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java÷ ÷(2
+%12void"java.io.BufferedReader#close()V**
+(
+readerBufferedjava.io.BufferedReader2close()*
+27
+20
+21
+0*Ω
+21õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaı ¯(ì
+ê
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java˜ ˜(0
+%20void"1testcasesupport.IO#writeLine(Ljava/lang/String;)V*"
+testcasesupport.IO*
+Benign, fixed string*
+0*¯
+22õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java∑ ∑(…
+∆
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java∑ ∑(
+datajava.lang.String"__id*
+""*
+40
+23*ï
+34õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java… …(4€
+ÿ
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.java… …(4
+datajava.lang.String"__id*
+
+%8java.lang.String*
+27
+31
+20
+21
+0*¯
+23õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÏ (…
+∆
+õ
+é/home/arti1208/Coding/ispras/juliet-java-1.3/src/testcases/CWE89_SQL_Injection/s04/CWE89_SQL_Injection__URLConnection_prepareStatement_15.javaÔ Ô(
+datajava.lang.String"__id*
+""*
+20
+21B\Z
+Xtestcases.CWE89_SQL_Injection.s04.CWE89_SQL_Injection__URLConnection_prepareStatement_15

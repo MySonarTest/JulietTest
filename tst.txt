@@ -1,0 +1,31 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+class TaintedIfTryTest {
+
+    private boolean badPrivate = false;
+
+    private void bad() throws Throwable {
+
+        String data = new Scanner(System.in).nextLine();
+
+        badPrivate = true;
+        badSink(data ); //svace: emitted TAINTED_PTR.COND
+    }
+
+    private void badSink(String inData) throws Throwable {
+
+        if (badPrivate) {
+
+            Connection dbConnection = DriverManager.getConnection("", "", "");
+            try {
+                dbConnection.setCatalog(inData);
+            } catch (SQLException e) {
+
+            }
+        }
+    }
+
+}

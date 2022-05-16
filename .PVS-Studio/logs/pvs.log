@@ -1,0 +1,10 @@
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:64 - ********************************
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:948 - /home/arti1208/.config/PVS-Studio-Java/7.18.59860
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:948 - .
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:948 - /home/arti1208/.config/PVS-Studio-Java/7.18.59860/..
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:948 - /home/arti1208/.config/PVS-Studio-Java/7.18.59860/../..
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:948 - /home/arti1208/.config/PVS-Studio-Java/7.18.59860/../../build
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/nix
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:76 - Native library found: /home/arti1208/.config/PVS-Studio-Java/7.18.59860/native/nix/libanalysis-core.so
+2022-05-15 22:36:17 [INFO ] c.p.r.NativeLoader:77 - ********************************

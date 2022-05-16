@@ -1,0 +1,36 @@
+# Svace warning type configuration file.
+#
+# This file was automatically generated with svace-3.3.0.
+# Use 'svace warning' to modify this file and see the list of possible keys.
+# Depending on location of this file, you might also need '--system' or '--global' option.
+# 
+# --------------
+# 
+# Severity: Major, Reliability: Unknown.
+#
+TAINTED_PTR.COND = true  # (default: false)
+
+# Severity: Major, Reliability: Unknown.
+#
+TAINTED_PTR.MIGHT.COND = true  # (default: false)
+
+# Severity: Normal, Reliability: Average.
+#
+UNREACHABLE_CODE = false  # (default: true)
+
+# Severity: Major, Reliability: Average.
+#
+UNREACHABLE_CODE.RET = false  # (default: true)
+
+# Severity: Normal, Reliability: High.
+#
+NO_CATCH = false  # (default: true)
+
+# Severity: Minor, Reliability: Unknown.
+#
+NO_CATCH.STRICT = false  # (default: true)
+
+# Severity: Normal, Reliability: VeryLow.
+#
+NO_CATCH.LIBRARY = false  # (default: true)
+
